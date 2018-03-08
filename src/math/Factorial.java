@@ -1,9 +1,6 @@
 package math;
 import java.util.Scanner;
 
-/**
- * Created by mrahman on 4/9/16.
- */
 public class Factorial {
 
     public static void main(String[] args) {

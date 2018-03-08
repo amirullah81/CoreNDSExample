@@ -3,10 +3,6 @@ package string.problems;
 import java.util.*;
 import java.util.Map.Entry;
 
-
-/**
- * Created by mrahman on 4/9/16.
- */
 public class DuplicateWord {
 
     public static void main(String[] args) {

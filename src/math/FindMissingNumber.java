@@ -1,8 +1,5 @@
 package math;
 
-/**
- * Created by mrahman on 4/9/16.
- */
 public class FindMissingNumber {
 
     public static void main(String[] args) {

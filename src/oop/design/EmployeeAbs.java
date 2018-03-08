@@ -1,9 +1,5 @@
 package oop.design;
 
-/**
- * Created by Rezina Sharmin on 4/11/2016.
- */
-
 
 public abstract class EmployeeAbs {
 

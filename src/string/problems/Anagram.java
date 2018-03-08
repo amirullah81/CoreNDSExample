@@ -2,9 +2,7 @@ package string.problems;
 
 import java.util.Arrays;
 
-/**
- * Created by mrahman on 4/9/16.
- */
+
 public class Anagram {
     static void isAnagram(String s1, String s2)
     {
