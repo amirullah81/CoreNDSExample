@@ -1,0 +1,75 @@
+Please answer the below core-java Questions:
+
+
+What jdk contains or composed of and define each components?
+ANS: Components of JDK - Java Compiler, Java Interpreter, Java Disassembler, Java Header file, Java Documentation, Java Debugger, Java Applet Viewer 
+What is IDE?
+ANS: IDE: Integrated Development environment.
+What are the IDEs available in the market to support java?
+ANS: Eclipse, IntelliJ, etc.
+Explain the entire java life cycle.
+ANS: Write source code in notepad/IDE -> convert into byte code using javac and the byte code is in the form of .class. Then load the class file to JVM using java loader. JVM will send all information to Operating system.
+what is class?
+ANS: Class is blueprint of object.
+What is object?
+ANS: Object is instance of class.
+What is the entry point of an application?
+ANS: main()
+Why main is static?
+ANS: If main were not declared static there would not be a consistent way for JVM to find main method in JAVA. 
+What is the difference between an Interface and Abstract class?
+ANS:Interface class -> * Interface keyword is used for interface class
+                       * It is collection of Abstract method/methods
+                       * A class uses implements keyword to implement interface class
+    Abstract class  -> * Abstract keyword is used for abstract class
+                       * It can have abstract and non abstract methods 
+Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
+ANS: From interface answer is no.
+what is Access Specifier?
+ANS: Access Specifier determines whether a class or method can be used by another method in another class or subclass. It is used to restrict access.
+What is OOP ? Define each feature of java OOP.
+ANS: OOP stands for Object Oriented Programming, Features of OOP are - 
+    1) Abstraction
+    2) Encapsulation
+    3) Polymorphism
+    4) Inheritance
+    
+What is API? Name list of API that you have used so far.
+ANS: API: Application Program Interface, String, Scanner, List, ArrayList, HashMap, Mapetc.
+Does java support multiple inheritance?
+ANS: No
+What is method overloading and when it happens?
+ANS: Allow a class to use same method having same name by changing their argument list. It Happens in compile time.
+What is method overriding and when it happens?
+ANS: Override the functionality of an existing method.  It happens in runtime.
+Explain exceptions in java and how to handle it.
+ANS:
+What is static keyword in java? How it has been used in variables and methods ?
+ANS: Static keyword allows to access class properties without creating object.
+Static variable belongs to the class not in object and have to initialize at the state of execution.
+Static methods belong to the class not in object. can access only static data
+What is final and how it has been used variables and methods?
+ANS: Final in java means not to be change. 
+What is final, finally and finalize?
+ANS:
+What is a constructor ?
+ANS: Initialize the state of object.
+What is "this" keyword in java ?
+ANS: It works as a reference to the current object.
+What is "super" keyword in java?
+ANS: "super" keyword is used to access parrent class object.
+What is JVM stand for ?
+ANS: JVM -> Java Virtual Machine
+What version of java are you using?
+ANS: ANS: javac 1.8.0_73
+What is JAR stand for ?
+ANS: JAR -> Java Archive
+What is compile time and run time?
+ANS: Compile time is when a code written in nootpad/IDE converted by a compilar from a particular programming language to machine language.
+Run time is when application runs.
+What is heap?
+ANS: Heap is a segment of RAM. Java objects remains on heap.
+How java manage it's memory?
+ANS:
+What is the difference between String, StringBuffer and StringBuilder?
+ANS:

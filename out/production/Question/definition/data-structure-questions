@@ -1,0 +1,55 @@
+Please answer the below Data Structure Questions:
+
+why do we need data structure?
+ANS: Data structure is needed to storing and organizing information so that it can be retrieved and used most productively.
+List out the areas in which data structures are applied extensively?
+ANS: Database Management System, Statistical analysis, Artificial intelligence
+what is an Array?
+ANS: Array is a container which hold a fixed number of values.
+what is the difference between the Array and ArrayList?
+ANS: Array is fixed length, after creating an array object cannot be change the array size. ArrayList is dynamic, its capacity grows automatically.
+what is LinkedList?
+ANS: In LinkedList every node have 2 part, data and reference to the next node.
+what is queue?
+ANS: Element inserted first will also be removed first. FIFO.
+what is stack?
+ANS: Element inserted last will be removed first which is LIFO
+what is FIFO and LIFO?
+FIFO -> First in First Out, LIFO -> Last in Last Out.
+what is the order of complexity?
+ANS:
+what is the best case to search an element from an array?
+ANS: Insertion
+what is the worst case to search an element from an array?
+ANS: Merge
+what is tree in data structure?
+ANS: In data structure, tree represents nodes connected by edges
+what is graph in data structure?
+ANS:
+what is the difference between the HashTable and HashMap?
+ANS:
+What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
+ANS: RDBMS = Array (i.e. Array of structures)
+     Network data model = Graph
+     Hierarchical data model = Trees
+How HashMap works in java?
+ANS:
+What is ArrayIndexOutOfBoundsException in java? When it occurs?
+ANS:
+What are the different ways of copying an array into another array?
+ANS: Use of API and implementing algorithm
+What is difference between an array and a linked list?
+ANS: Difficult to add or remove data from array, but in LinkedList data can be add/remove from anywhere.
+What is DFS and BFS?
+ANS:
+What is Recursion?
+ANS:
+What is Big-(O)-notation?
+ANS:
+Outlined different kind of sorting algorithm with time complexity?
+ANS:
+Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
+  a)In terms of Accessing element.
+  b)In terms of Inserting element.
+  c)In terms of Searching element.
+  d)In terms of Removing element.
